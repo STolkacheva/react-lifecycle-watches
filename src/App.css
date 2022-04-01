@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+  width: 500px;
+  margin: 0 auto;
+}
+.watch {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+}
+.watch_input {
+  display: flex;
+  flex-flow: column;
+  margin-right: 10px;
+  align-items: start;
+}
+.watch_title {
+  font-size: 14px;
+  margin: 10px;
+}
+.watch_value {
+  box-sizing: border-box;
+  height: 50px;
+  width: 200px;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  color: rgb(83, 91, 105);
+  padding: 10px;
+}
+.watch_add {
+  height: 50px;
+  margin-top: auto;
+  border: 1px solid #000000;
+  border-radius: 5px;
+}
+.watch_list {
+  width: 500px;
+}
+.watch_item {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+}
+.item_title {
+  margin-right: 10px;
+  align-items: start;
+  width: 200px;
+}
+.item_time {
+  margin-right: 10px;
+  align-items: start;
+  width: 200px;
+}
+.item_remove {
+  border: 0px;
+  background: white;
+  width: 70px;
+}
