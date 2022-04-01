@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-lifecycle-watches/static/css/main.fe3482a8.css",
+    "main.js": "/react-lifecycle-watches/static/js/main.45557674.js",
+    "index.html": "/react-lifecycle-watches/index.html",
+    "main.fe3482a8.css.map": "/react-lifecycle-watches/static/css/main.fe3482a8.css.map",
+    "main.45557674.js.map": "/react-lifecycle-watches/static/js/main.45557674.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe3482a8.css",
+    "static/js/main.45557674.js"
+  ]
+}
