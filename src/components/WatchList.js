@@ -10,7 +10,6 @@ export default function WatchList({ list, onRemove }) {
     onRemove(id);
   };
 
-  console.log(list);
   return list.map((o) => (
     <div className="watch_list" key={uuid()}>
       <Clock
